@@ -1,0 +1,3 @@
+N:/STM32H7S78-DK/1_LEDcontrol/Appli/Core/Src/stm32h7rsxx_hal_timebase_tim.c:59:19:HAL_InitTick	7
+N:/STM32H7S78-DK/1_LEDcontrol/Appli/Core/Src/stm32h7rsxx_hal_timebase_tim.c:152:6:HAL_SuspendTick	1
+N:/STM32H7S78-DK/1_LEDcontrol/Appli/Core/Src/stm32h7rsxx_hal_timebase_tim.c:163:6:HAL_ResumeTick	1
