@@ -1,0 +1,21 @@
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:56:6:virtual void GraphView::tearDownScreen()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/graph_screen/GraphView.hpp:11:13:GraphView::~GraphView()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/graph_screen/GraphView.hpp:11:13:virtual GraphView::~GraphView()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	2
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:5:1:GraphView::GraphView()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:217:6:void GraphView::insertGraphSample(BufferSample)	3
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/RadioButtonGroup.hpp:122:18:void touchgfx::RadioButtonGroup<CAPACITY>::setSelected(touchgfx::RadioButton&) [with short unsigned int CAPACITY = 3]	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/RadioButtonGroup.hpp:89:21:int32_t touchgfx::RadioButtonGroup<CAPACITY>::getSelectedRadioButtonIndex() const [with short unsigned int CAPACITY = 3]	3
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::Box]	11
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:200:6:virtual void GraphView::fahrenheitToggleClicked()	2
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::RadioButton]	11
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:61:6:virtual void GraphView::handleTickEvent()	7
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:210:6:void GraphView::updateClock(uint8_t, uint8_t)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:122:6:virtual void GraphView::temperatureButtonSelected()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:144:6:virtual void GraphView::fanButtonSelected()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:166:6:virtual void GraphView::humidityButtonSelected()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:231:6:void GraphView::setGraphData(BufferSample*, uint8_t)	4
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:10:6:virtual void GraphView::setupScreen()	5
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/graph_screen/GraphView.cpp:188:6:virtual void GraphView::roomChanged()	1

@@ -1,0 +1,17 @@
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::updateTemperature(Rooms, float)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::updateHumidity(Rooms, float)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::updateFanMode(Rooms, HVAC_FanMode_t)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::transmissionIsDone()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::updateClock(uint8_t, uint8_t)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:23:18:virtual void ModelListener::updateTempSetPoint(Rooms, float)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:24:18:virtual void ModelListener::updateFanSetPoint(Rooms, HVAC_FanMode_t)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/model/ModelListener.hpp:26:18:virtual void ModelListener::sampleGraphData(BufferSample)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/weather_screen/WeatherPresenter.hpp:28:13:WeatherPresenter::~WeatherPresenter()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherPresenter.cpp:10:6:virtual void WeatherPresenter::activate()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/weather_screen/WeatherPresenter.hpp:28:13:virtual WeatherPresenter::~WeatherPresenter()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherPresenter.cpp:20:6:virtual void WeatherPresenter::updateWeatherData(WeatherData, bool)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/weather_screen/WeatherPresenter.hpp:28:13:virtual void* WeatherPresenter::_ZThn4_N16WeatherPresenterD1Ev()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherPresenter.cpp:4:1:WeatherPresenter::WeatherPresenter(WeatherView&)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherPresenter.cpp:25:6:bool WeatherPresenter::getIsFahrenheit()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherPresenter.cpp:30:6:void WeatherPresenter::setIsFahrenheit(bool)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherPresenter.cpp:35:13:WeatherData WeatherPresenter::getWeatherData()	1

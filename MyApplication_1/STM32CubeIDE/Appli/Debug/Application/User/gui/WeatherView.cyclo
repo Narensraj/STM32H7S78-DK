@@ -1,0 +1,10 @@
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherView.cpp:39:6:virtual void WeatherView::tearDownScreen()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/weather_screen/WeatherView.hpp:11:13:WeatherView::~WeatherView()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/weather_screen/WeatherView.hpp:11:13:virtual WeatherView::~WeatherView()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherView.cpp:4:1:WeatherView::WeatherView()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherView.cpp:51:6:void WeatherView::setWeatherData(WeatherData, bool)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherView.cpp:44:6:virtual void WeatherView::fahrenheitToggleClicked()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/weather_screen/WeatherView.cpp:9:6:virtual void WeatherView::setupScreen()	2

@@ -1,0 +1,30 @@
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:51:6:virtual void MainView::tearDownScreen()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:157:6:virtual void MainView::fanModeChanged(HVAC_FanMode_t)	4
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:177:6:virtual void MainView::temperatureChanged(float)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:190:6:virtual void MainView::graphButtonClicked(Rooms)	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/main_screen/MainView.hpp:11:13:MainView::~MainView()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/main_screen/MainView.hpp:11:13:virtual MainView::~MainView()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	2
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:70:10:void touchgfx::AbstractButtonContainer::setAlpha(uint8_t)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:4:1:MainView::MainView()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:196:6:void MainView::updateRoomTemperature(Rooms, float)	4
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:214:6:void MainView::updateRoomHumidity(Rooms, float)	4
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:232:6:void MainView::updateRoomFanMode(Rooms, HVAC_FanMode_t)	4
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:131:10:void touchgfx::MoveAnimator<T>::startMoveAnimation(int16_t, int16_t, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation) [with T = touchgfx::Container]	7
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:131:6:virtual void MainView::resetRoomCards()	3
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::Image]	11
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:183:6:virtual void MainView::temperatureAnimationDone()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:285:6:void MainView::setSelectedRoom(Rooms)	7
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:56:6:virtual void MainView::handleTickEvent()	8
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:250:6:void MainView::updateClock(uint8_t, uint8_t)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:269:6:void MainView::setTemperatures()	2
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:124:6:virtual void MainView::fahrenheitToggleClicked()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:97:6:virtual void MainView::kitchenCardButtonClicked()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:106:6:virtual void MainView::livingroomCardButtonClicked()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:115:6:virtual void MainView::bedroomCardButtonClicked()	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:257:6:void MainView::updateCurrentWeather(WeatherData, bool)	2
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/main_screen/MainView.cpp:11:6:virtual void MainView::setupScreen()	34

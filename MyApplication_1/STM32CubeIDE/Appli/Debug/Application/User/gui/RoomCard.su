@@ -1,0 +1,27 @@
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../../Appli/../../Appli/TouchGFX/gui/include/gui/containers/RoomCard.hpp:11:13:RoomCard::~RoomCard()	8	static
+../../Appli/../../Appli/TouchGFX/gui/include/gui/containers/RoomCard.hpp:11:13:virtual RoomCard::~RoomCard()	8	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Bitmap.hpp:142:14:touchgfx::BitmapId touchgfx::Bitmap::getId() const	8	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextureMapper.hpp:130:18:virtual void touchgfx::TextureMapper::setXAngle(float)	0	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextureMapper.hpp:612:18:virtual void touchgfx::TextureMapper::invalidateContent() const	16	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:4:1:RoomCard::RoomCard()	8	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:119:6:void RoomCard::setTemperature(float, bool)	24	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:167:6:void RoomCard::setHumidity(float)	16	static
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::Image]	24	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:10:6:virtual void RoomCard::initialize()	8	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:24:6:virtual void RoomCard::handleTickEvent()	32	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:181:6:virtual void RoomCard::flipOut(uint16_t)	24	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:101:6:virtual void RoomCard::startupAnimation(uint16_t, uint16_t, touchgfx::TypedText)	32	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/RoomCard.cpp:146:6:void RoomCard::setFanSetPoint(HVAC_FanMode_t)	16	static

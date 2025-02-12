@@ -1,0 +1,23 @@
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/containers/WeatherDaily.hpp:10:13:WeatherDaily::~WeatherDaily()	1
+../../Appli/../../Appli/TouchGFX/gui/include/gui/containers/WeatherDaily.hpp:10:13:virtual WeatherDaily::~WeatherDaily()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	2
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/WeatherDaily.cpp:4:1:WeatherDaily::WeatherDaily()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::TextAreaWithOneWildcard]	9
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/WeatherDaily.cpp:9:6:virtual void WeatherDaily::initialize()	1
+../../Appli/../../Appli/Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::TextArea]	9
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/WeatherDaily.cpp:15:6:void WeatherDaily::fadeInWithDelay(int)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/WeatherDaily.cpp:38:6:void WeatherDaily::setAllAlphas(int)	1
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/containers/WeatherDaily.cpp:49:6:void WeatherDaily::setupDay(uint8_t, WeatherData, bool)	9

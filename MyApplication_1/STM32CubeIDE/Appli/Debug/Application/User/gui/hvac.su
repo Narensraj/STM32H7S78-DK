@@ -1,0 +1,4 @@
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/common/hvac.cpp:54:6:bool xHVAC_SendToController(const HVAC_Event_t*, uint32_t)	0	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/common/hvac.cpp:110:6:bool xHVAC_WaitControllerReady(uint32_t)	0	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/common/hvac.cpp:115:6:void updateTelemetry(HVAC_Event_t*)	32	static
+N:/STM32H7S78-DK/MyApplication_1/Appli/TouchGFX/gui/src/common/hvac.cpp:77:6:bool xHVAC_ReceiveFromController(HVAC_Event_t*, uint32_t)	32	static
